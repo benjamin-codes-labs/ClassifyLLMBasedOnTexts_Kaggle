@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+.DS_Store
+Data/
+checkpoints/
+cache/
+runs/
+deliverables/
+*.parquet
+*.joblib
+*.zip
+.env
+.env.*
